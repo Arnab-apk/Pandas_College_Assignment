@@ -14,3 +14,20 @@ This repository is designed to help learners, students, and developers **underst
 </div>
 
 ---
+
+## 🧠 Topics Covered
+
+| Level | Concepts | Description |
+|:------|:----------|:-------------|
+| 🟢 **Beginner** | Series, DataFrame, Indexing | Learn how to create and manipulate Pandas objects |
+| 🟡 **Intermediate** | GroupBy, Merge, Missing Values | Perform complex data operations and clean data effectively |
+| 🔴 **Advanced** | Time Series, MultiIndex, Performance | Master powerful features for high-level data analysis |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/yourusername/Pandas-Implementation.git
+cd Pandas-Implementation
